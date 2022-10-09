@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Grassless</h1>
 <h3 align="center">Just a guy studying computer science</h3>
-<img align="right" alt="programming" width="400" src="https://imgs.search.brave.com/FX3LSRe-WP3-NszptovDZnG_yj6GU12Q-HwdgQ0my0Q/rs:fit:480:268:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvWlZpazdw/QnR1OWROUy9naXBo/eS5naWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grassless1337&label=Profile%20views&color=0e75b6&style=flat" alt="grassless1337" /> </p>
-
-- 🤝 I’m looking for help with **html, py**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
