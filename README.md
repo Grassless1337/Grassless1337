@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Grassless</h1>
-<h3 align="center">Just a guy studying computer science</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grassless1337&label=Profile%20views&color=0e75b6&style=flat" alt="grassless1337" /> </p>
 
 <p align="left">
